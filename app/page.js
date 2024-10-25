@@ -1,5 +1,5 @@
 "use client";
 
 export default function Home() {
-  return <div>facetime Chat</div>;
+  return <div>Snapchat Live Video Chat</div>;
 }
